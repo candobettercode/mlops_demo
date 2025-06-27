@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Learning/mlops/mlruns/139949280696076843/256f4ced2fa24e02b888c3adf9a278f9/artifacts
+end_time: 1751009394032
+entry_point_name: ''
+experiment_id: '139949280696076843'
+lifecycle_stage: active
+run_id: 256f4ced2fa24e02b888c3adf9a278f9
+run_name: KNN
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751009390706
+status: 3
+tags: []
+user_id: Anvi

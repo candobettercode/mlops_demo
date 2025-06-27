@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Learning/mlops/mlruns/139949280696076843/3788ee6adc2040bb9a53bf55e4c010d4/artifacts
+end_time: 1751007928344
+entry_point_name: ''
+experiment_id: '139949280696076843'
+lifecycle_stage: active
+run_id: 3788ee6adc2040bb9a53bf55e4c010d4
+run_name: hyperparameter_run_4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751007925415
+status: 3
+tags: []
+user_id: Anvi
